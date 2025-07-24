@@ -1,0 +1,33 @@
+{
+  "name": "dead-animal-removal--crete-illinois",
+  "version": "1.0.0",
+  "description": "Professional dead animal removal  website for Action Pest Removal in Crete, Illinois",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo \"Static site, no build process needed\"",
+    "deploy": "echo \"See DEPLOY.md for deployment instructions\""
+  },
+  "keywords": [
+    "dead animal removal ",
+    "crete",
+    "illinois",
+    "local business",
+    "seo optimized",
+    "responsive design",
+    "schema markup"
+  ],
+  "author": "Action Pest Removal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dead-animal-removal--crete-illinois.git"
+  },
+  "homepage": "https://dead-animal-removal--crete-illinois.vercel.app",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
